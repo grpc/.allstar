@@ -1,0 +1,4 @@
+optConfig:
+  optOutStrategy: false
+  optInRepos:
+    - grpc
